@@ -3,9 +3,11 @@
   <img src="https://raw.githubusercontent.com/andreasgrapas/andreasgrapas/master/images/cyberpunk_banner.gif" alt="Header Banner" width="100%" />
 </p>
 
-<!-- Animated Typing Text -->
+<!-- Smooth Live Typing Animation (100% Fix) -->
 <p align="center">
-  <img src="typing.svg" alt="Animated Typing Text" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=4000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=%F0%9F%9A%80+Passionate+MERN+Stack+Developer+in+the+Making;%F0%9F%92%BB+Building+Full-Stack+Web+Applications;%E2%9C%A8+Turning+Code+Into+Reality" alt="Typing Effect" />
+  </a>
 </p>
 
 <p align="center">
