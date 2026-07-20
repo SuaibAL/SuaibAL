@@ -1,6 +1,6 @@
-<!-- dynamic header banner -->
+<!-- Premium Static Banner (100% Load Guarantee) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=1a1a1a&height=250&section=header&text=Hi%20There,%20I'm%20Suaib!%20👋&fontSize=55&animation=fadeIn&fontAlignY=38" alt="Header Banner" />
+  <img src="https://raw.githubusercontent.com/andreasgrapas/andreasgrapas/master/images/cyberpunk_banner.gif" alt="Header Banner" width="100%" />
 </p>
 
 <h3 align="center">🚀 Passionate MERN Stack Developer in the Making</h3>
@@ -48,13 +48,14 @@
 
 ### 📊 GitHub Analytics
 
+<!-- High-stability Alternative Stats Layout -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SuaibAL&show_icons=true&theme=dracula&count_private=true&hide_border=true" alt="Suaib's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuaibAL&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SuaibAL&show_icons=true&theme=tokyonight&count_private=true" alt="Suaib's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SuaibAL&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SuaibAL&theme=dracula&hide_border=true" alt="GitHub Streak" width="97%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SuaibAL&theme=tokyonight" alt="GitHub Streak" width="97%" />
 </p>
 
 ---
