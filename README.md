@@ -3,7 +3,10 @@
   <img src="https://raw.githubusercontent.com/andreasgrapas/andreasgrapas/master/images/cyberpunk_banner.gif" alt="Header Banner" width="100%" />
 </p>
 
-<h3 align="center">🚀 Passionate MERN Stack Developer in the Making</h3>
+<!-- Animated Typing Text -->
+<p align="center">
+  <img src="typing.svg" alt="Animated Typing Text" />
+</p>
 
 <p align="center">
   I am deeply focused on mastering Full-Stack Web Development, building scalable web applications, and creating seamless user experiences using the JavaScript ecosystem.
@@ -48,7 +51,6 @@
 
 ### 📊 GitHub Analytics
 
-<!-- High-stability Alternative Stats Layout -->
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SuaibAL&show_icons=true&theme=tokyonight&count_private=true" alt="Suaib's GitHub Stats" width="48%" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SuaibAL&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
