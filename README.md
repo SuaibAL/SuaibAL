@@ -18,7 +18,7 @@
 
 ### 💻 About Me
 
-- 🔭 **Current Focus:** Deep diving into React.js, Node.js, and backend architectures.
+- 🔭 **Current Focus:** Deep diving into HTML,CSS and Tailwind CSS.
 - 🌱 **Learning:** State management with Redux, Advanced MongoDB aggregations, and Next.js.
 - ⚡ **Goal:** Building impactful web applications and contributing to open-source projects.
 
