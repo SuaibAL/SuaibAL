@@ -1,6 +1,6 @@
 <!-- dynamic header banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=auto&height=250&section=header&text=Hi%20There,%20I'm%20Suaib!%20👋&fontSize=55&animation=fadeIn&fontAlignY=38" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/type=waving&color=1a1a1a&height=250&section=header&text=Hi%20There,%20I'm%20Suaib!%20👋&fontSize=55&animation=fadeIn&fontAlignY=38" alt="Header Banner" />
 </p>
 
 <h3 align="center">🚀 Passionate MERN Stack Developer in the Making</h3>
